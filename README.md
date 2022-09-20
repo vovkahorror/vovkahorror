@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Volodymyr Yaremchak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovkahorror&show_icons=true&hide=stars,issues,contribs&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovkahorror&layout=compact&langs_count=10)](https://github.com/vovkahorror/github-readme-stats)
