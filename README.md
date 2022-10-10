@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 ![Volodymyr Yaremchak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovkahorror&show_icons=true&hide=stars,issues,contribs&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovkahorror&layout=compact&langs_count=10&custom_title=Volodymyr%20Yaremchak's%20Languages)](https://github.com/vovkahorror/github-readme-stats)
