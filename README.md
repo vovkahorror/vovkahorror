@@ -1,3 +1,5 @@
+<div align='center'>
+  
 ### Hi there 👋
 
 <!--
@@ -15,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Volodymyr Yaremchak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovkahorror&show_icons=true&hide=stars,issues,contribs&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vovkahorror&theme=react&border_radius=10)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovkahorror&layout=compact&langs_count=10&custom_title=Languages%20Used)](https://github.com/vovkahorror/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovkahorror&layout=compact&theme=react&langs_count=10&border_radius=10)](https://github.com/vovkahorror/github-readme-stats)
 
 ![My Codewars](https://www.codewars.com/users/vovkahorror/badges/large)
+
+</div>
