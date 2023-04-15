@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=20232A&fontColor=61DAFB&height=120&section=header&text=Volodymyr%20Yaremchak&animation=scaleIn&stroke=20232A&strokeWidth=2"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vovkahorror&theme=react&border_radius=10)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=vovkahorror&theme=react&border_radius=10)
   
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovkahorror&layout=compact&theme=react&langs_count=10&border_radius=10)](https://github.com/vovkahorror/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovkahorror&layout=compact&theme=react&langs_count=10&border_radius=10)
   
 <hr>
 
