@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 <hr>
 
-![My Codewars](https://www.codewars.com/users/vovkahorror/badges/large)
+[![My Codewars](https://www.codewars.com/users/vovkahorror/badges/large)](https://www.codewars.com/users/vovkahorror/)
   
 <hr>
   
