@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <hr>
 
 [![My Codewars](https://www.codewars.com/users/yaremchak/badges/large)](https://www.codewars.com/users/yaremchak/)
+<a href='https://www.codewars.com/users/yaremchak/' target='_blank'><img src='https://www.codewars.com/users/yaremchak/badges/large'></a>
   
 <hr>
   
