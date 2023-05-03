@@ -1,6 +1,6 @@
 <div align='center'>
   
-### Hi there 👋
+### Hi there <img src='https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif' width='40px'/>
 
 <!--
 **vovkahorror/vovkahorror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
